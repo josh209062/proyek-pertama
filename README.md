@@ -35,7 +35,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-- Jalankan Stremalit
+- Jalankan Streamlit
 ```
 streamlit run prediction.py
 ```

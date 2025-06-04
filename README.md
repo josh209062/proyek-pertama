@@ -49,7 +49,7 @@ Selain itu grafik batang digunakan dalam melihat distribusi dari pegawai yang re
 
 Link Dashboard: [HR Dashboard](https://public.tableau.com/views/HR-Analytics_17477137452960/AttritionDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Link Streamlit: [HR Prediction]()
+Link Streamlit: [HR Prediction](https://hr-attrition-dashboard.streamlit.app/)
 
 
 ## Conclusion
